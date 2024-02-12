@@ -42,6 +42,8 @@ The app should now be running at http://localhost:3000.
 
 Screenshots
 
+[![Screenshot-2024-02-12-202050.png](https://i.postimg.cc/XqR6fG2t/Screenshot-2024-02-12-202050.png)](https://postimg.cc/0K04xQ1C)
+
 
 Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
