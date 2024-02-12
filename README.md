@@ -22,21 +22,21 @@ This is a simple To-Do List application built with React. It allows users to add
    ```bash
    git clone https://github.com/your-username/your-repo.git
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
-bash
-cd your-repo
+   ```bash
+   cd your-repo
 
 
 3.Install dependencies:
 
-bash
-npm install
+   ```bash
+   npm install
 
 4.Run the app:
 
-bash
-npm start
+  ```bash
+  npm start
 
 The app should now be running at http://localhost:3000.
 
