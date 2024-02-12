@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vedrio17/React-TODOLIST/static/css/main.a75e74bb.css",
+    "main.js": "/vedrio17/React-TODOLIST/static/js/main.bb344ce5.js",
+    "index.html": "/vedrio17/React-TODOLIST/index.html",
+    "main.a75e74bb.css.map": "/vedrio17/React-TODOLIST/static/css/main.a75e74bb.css.map",
+    "main.bb344ce5.js.map": "/vedrio17/React-TODOLIST/static/js/main.bb344ce5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a75e74bb.css",
+    "static/js/main.bb344ce5.js"
+  ]
+}
